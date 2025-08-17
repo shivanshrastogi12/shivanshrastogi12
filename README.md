@@ -85,8 +85,11 @@ Aspiring Software Engineer with hands-on experience in the React ecosystem and a
 | :------------: | :---------------------------------: | :-------------------------------------------: |
 | **Dice Game**  | _Browser dice game with scoring & responsive UI_ | [Demo](https://dice-game-five-chi.vercel.app/) |
 | **Pokedex**    | _React + PokeAPI app with local storage persistence_ | [Demo](https://pokedex-shivansh.vercel.app/) |
+| **Weather App** | _Real-time weather updates with a clean UI_ | [Demo](https://appforweather.vercel.app/) |
+| **Ink Well**   | _AI-powered app that generates personalized bios_ | [Demo](https://inkwell-eight.vercel.app/) |
 
 </div>
+
 
 ---
 
