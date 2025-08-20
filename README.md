@@ -144,10 +144,10 @@ Aspiring Software Engineer with hands-on experience in the React ecosystem and a
 
 | Certification / Course                | Platform      | Date        |
 |---------------------------------------|---------------|-------------|
-| [Software Engineer](https://drive.google.com/file/d/1DLQIv-n_A2Cm_Dlda3K7tNnVRGWW4pl1/view?usp=drive_link )                   | HackerRank    | Aug 2025    |
+| [Software Engineer](https://drive.google.com/file/d/1DLQIv-n_A2Cm_Dlda3K7tNnVRGWW4pl1/view?usp=drive_link )                    | HackerRank    | Aug 2025    |
 | [Problem Solving (Basic)](https://drive.google.com/file/d/1Ao-_W6SKLcjPckyaNy-3h5L92eupAfPr/view?usp=drive_link)               | HackerRank    | Apr 2025    |
 | [JavaScript (Intermediate)](https://drive.google.com/file/d/1w3mBKWfQEQoijpGfkz8DJfcTcfbl-l4a/view?usp=drive_link)             | HackerRank    | Aug 2025    |
-| [Python Full Stack Development](https://drive.google.com/file/d/1Ja2vxmCi70K5hhlLNyMBFFG8di3vy8et/view?usp=drive_link)         | Eduskills     | Dec 2025    |
+| [Python Full Stack Development](https://drive.google.com/file/d/1Ja2vxmCi70K5hhlLNyMBFFG8di3vy8et/view?usp=drive_link)         | Eduskills     | Dec 2024    |
 
 
 
