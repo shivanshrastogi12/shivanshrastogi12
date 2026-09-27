@@ -24,30 +24,30 @@ Currently focused on strengthening my **software development and backend develop
 
 🔭 **Currently working on**
 
-> Building small, focused web apps (games & utilities) and improving deployment workflows.
+> Building practical full-stack and backend projects using Java, Spring Boot, React, and databases.
 
 🌱 **Learning**
 
-> Advanced React patterns, Tailwind, and web performance tuning.
+> Spring Boot, REST API development, backend architecture, and improving my problem-solving skills.
 
 👯 **Looking to collaborate on**
 
-> Full-Stack projects, UI/UX experiments, and product-focused internships.
+> Backend and full-stack projects where I can build features, learn new technologies, and contribute to real-world applications.
 
 </td>
 <td width="50%">
 
 🤝 **Seeking opportunities in**
 
-> Frontend / Full‑stack internships and part-time roles where I can ship features and learn from engineers.
+> Software Engineer, Backend, and Full-Stack roles where I can apply my skills and continue learning from experienced developers.
 
 💬 **Ask me about**
 
-> Building fast React apps, simple deployment with Vercel, or running data-driven social campaigns.
+> Java, Spring Boot, React, REST APIs, MySQL, PostgreSQL, and building web applications.
 
 ⚡ **Fun fact**
 
-> I can debug code faster than I can decide what to eat for dinner.
+> I enjoy turning an idea into a working application and then immediately thinking about how I can improve it.
 
 </td>
 </tr>
