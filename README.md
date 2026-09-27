@@ -9,9 +9,10 @@
 
 ## 👨‍💻 About Me
 
-> _"I build futuristic apps but can’t predict when I’ll finally submit my assignment."_
+> _"Building applications, learning new technologies, and turning ideas into working solutions."_
 
-Aspiring Software Engineer with hands-on experience in the React ecosystem and a strong foundation in computer science fundamentals. A proactive team player with a knack for leadership and creative problem-solving.
+Aspiring Software Engineer with hands-on experience in **Java, Spring Boot, React, JavaScript, MySQL, and PostgreSQL**. I enjoy building web applications, developing REST APIs, and working with databases.
+Currently focused on strengthening my **software development and backend development** skills through practical projects.
 
 ---
 
