@@ -151,7 +151,7 @@ Currently focused on strengthening my **software development and backend develop
 | Certification / Course | Platform | Date |
 |---|---|---|
 | [Java (Basic)](https://drive.google.com/file/d/12zpjOJtsD1nAnE_in-d5aF6QGKX8x2rx/view?usp=drive_link) | HackerRank | Aug 2024 |
-| [Problem Solving (Basic)](https://drive.google.com/file/d/1Ao-_W6SKLCjPckyaNy-3h5L92eupAfPr/view?usp=sharing) | HackerRank | Apr 2025 |
+| [Problem Solving (Basic)](https://drive.google.com/file/d/1Ao-_W6SKLcjPckyaNy-3h5L92eupAfPr/view?usp=drive_link) | HackerRank | Apr 2025 |
 | [Software Engineer](https://drive.google.com/file/d/1DLQIv-n_A2Cm_Dlda3K7tNnVRGWW4pl1/view?usp=sharing) | HackerRank | Aug 2025 |
 | [JavaScript (Intermediate)](https://drive.google.com/file/d/1w3mBKWfQEQoijpGfkz8DJfcTcfbl-l4a/view?usp=drive_link) | HackerRank | Aug 2025 |
 | [SQL (Basic)](https://drive.google.com/file/d/1x-oHW4YsWu9ZWznbCJqk3mr9wAgNT430/view?usp=drive_link) | HackerRank | Nov 2025 |
