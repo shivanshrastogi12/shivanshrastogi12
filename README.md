@@ -1,8 +1,8 @@
 <div align="center">
 
-# नमस्ते 🙏, I'm **Shivansh Rastogi**
+# नमस्ते 🙏, I'm Shivansh Rastogi
 
-### _B.Tech CSE student building clean web experiences & growing product intuition_
+### Building, learning & improving — one application at a time 🚀
 ---
 
 </div>
